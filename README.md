@@ -263,11 +263,7 @@ Analista de Dados | Business Intelligence
 
 📌 LinkedIn
 
-> https://www.linkedin.com/in/SEU-LINK
-
-📌 GitHub
-
-> https://github.com/SEU-USUARIO
+> [https://www.linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/henriquesousaa/)
 
 ---
 
