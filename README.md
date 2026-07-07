@@ -31,7 +31,7 @@ O objetivo foi transformar dados operacionais em informações estratégicas par
 ## 🎥 Demonstração
 
 <p align="center">
-  <img src="assets/dashboard-demo.gif" alt="Dashboard Preview" width="100%">
+  <img src="assets/dashboard-demo.gif.gif" alt="Dashboard Preview" width="100%">
 </p>
 
 ## 🖼️ Páginas do Dashboard
